@@ -1,0 +1,10 @@
+Computer Networks Info
+
+instance-1
+Internal IP: 10.128.0.2
+External IP: 34.173.32.250
+
+instance-2
+Internal IP: 10.128.0.3
+External IP: 104.154.206.54
+
